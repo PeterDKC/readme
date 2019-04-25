@@ -36,7 +36,7 @@ Eventually I progressed into PHP, MySQL, Gentoo Linux administration, and hostin
 
 Now some 12+ years into my career, I still get a rush when figuring out something new. It comes less often these days, but when it does it reminds me what drew me to the field in the first place. Looking at a problem from every angle I can think of, imagining a solution, and banging my head against incomplete documentation till it suddenly works.
 
-When not shipping feature branches, I spend time being used as a jungle gym by my two 8mo old twin boys, refactoring my garden, and fragging out on my gaming PC.
+When not shipping feature branches, I spend time being used as a jungle gym by my 18mo old twin boys, refactoring my garden, and fragging out on my gaming PC.
 
 ## Experience [experience]
 
@@ -47,7 +47,3 @@ When not shipping feature branches, I spend time being used as a jungle gym by m
 My current position's work is all locked on internal networks. These are my publicly available contributions.
 
 [GitHub](https://github.com/PeterDKC)
-
-## Misc [misc]
-
-[Blog / New Skills sandbox](http://BeardAboutIt.com)
