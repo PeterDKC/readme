@@ -1,12 +1,10 @@
 <!-- MarkdownTOC autolink="true" bullets="-,+" -->
 
 - [Resume - Peter DeMarco](#resume)
-    + [Current Position](#position)
-    + [Key Skills](#skills)
-    + [Summary](#summary)
-    + [Experience](#experience)
-    + [Code Samples](#code)
-    + [Misc](#misc)
+	+ [Key Skills](#skills)
+	+ [Summary](#summary)
+	+ [Experience](#experience)
+	+ [Code Samples](#code)
 
 <!-- /MarkdownTOC -->
 
@@ -14,9 +12,7 @@
 
 Omaha, NE || yinrunning@gmail.com || 816.878.3624
 
-## Current Position [position]
-
-Software Engineer, Internal Tools, LinkedIn.com
+Software Engineer || GCO Internal Tools || LinkedIn.com
 
 ## Key Skills [skills]
 
